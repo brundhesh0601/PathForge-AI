@@ -1,0 +1,8 @@
+{
+  "name": "PathForge AI",
+  "description": "Multi-agent career roadmap, skill gap diagnostics, live swarm telemetry, and Nova AI mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
